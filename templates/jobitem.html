@@ -1,0 +1,18 @@
+<div class="card">
+    <div class="left-part">
+        <div class="top mt-2 ">
+            <h4 style="color:rgb(120,120,120)"><strong>{{ job['title'] }}</strong></h4>
+        </div>
+        <div class="bottom">
+            <strong>Location:</strong> {{ job['location'] }}
+        </div>
+        {% if 'salary' in job %}
+        <div class="bottom">
+            <strong>Salary:</strong> {{ job['salary'] }}
+        </div>
+        {% endif %}
+    </div>
+    <div class="right-part">
+        <button>Apply Now</button>
+    </div>
+</div>
