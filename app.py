@@ -7,43 +7,43 @@ JOBS = [
         'id': 1,
         'title': 'Data Analyst',
         'location': 'Bengaluru, India',
-        'salary': 'Rs. 10,00,000'
+        'salary': 'Rs. 40,00,000'
     },
     {
         'id': 2,
-        'title': 'Data Analyst',
+        'title': 'Web Developer',
         'location': 'Bengaluru, India',
-        'salary': 'Rs. 10,00,000'
+        'salary': 'Rs. 25,00,000'
     },
     {
         'id': 3,
-        'title': 'Data Analyst',
+        'title': 'Web Designer',
         'location': 'Bengaluru, India',
         'salary': 'Rs. 10,00,000'
     },
     {
         'id': 4,
-        'title': 'Data Analyst',
+        'title': 'Tech Lead',
         'location': 'Bengaluru, India',
-        'salary': 'Rs. 10,00,000'
+        'salary': 'Rs. 30,00,000'
     },
     {
         'id': 5,
-        'title': 'Data Analyst',
+        'title': 'Human Resources(HR)',
         'location': 'Bengaluru, India',
-        'salary': 'Rs. 10,00,000'
+        'salary': 'Rs. 50,00,000'
     },
     {
         'id': 5,
-        'title': 'Data Analyst',
+        'title': 'Junior Developer',
         'location': 'Bengaluru, India',
-        'salary': 'Rs. 10,00,000'
+        'salary': 'Rs. 4,00,000'
     },
     {
         'id': 5,
-        'title': 'Data Analyst',
+        'title': 'Java Developer',
         'location': 'Bengaluru, India',
-        'salary': 'Rs. 10,00,000'
+        'salary': 'Rs. 40,00,000'
     },
     {
         'id': 5,
